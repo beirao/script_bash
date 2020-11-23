@@ -22,7 +22,7 @@ do
 	
 int main()
 {
-	
+	return 0;
 }" >> exercice$i/main.c
 
 	touch exercice$i/exercice$i.c
